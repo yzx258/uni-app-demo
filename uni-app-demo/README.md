@@ -15,5 +15,5 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+UI地址：https://docs.cool-js.com/uni
+前端API地址：https://uniapp.dcloud.io/api
