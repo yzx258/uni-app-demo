@@ -15,5 +15,5 @@ npm run serve
 npm run build
 ```
 
-UI地址：https://docs.cool-js.com/uni
-前端API地址：https://uniapp.dcloud.io/api
+UI地址：https://docs.cool-js.com/uni;
+前端API地址：https://uniapp.dcloud.io/api;
